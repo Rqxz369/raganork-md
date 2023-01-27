@@ -15,7 +15,7 @@
         },
         "ANTILINK_WARN": {
             "description": "Groups for antilink (JIDS)",
-            "required": false,
+            "required": true,
             "value":"jid,jid"
         },
         "READ_MESSAGES": {
@@ -41,7 +41,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
+            "value":"𝕽𝖖𝖝𝖟369"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -51,26 +51,26 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"𝕽𝖖𝖝𝖟369"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
+            "value":"Rqxz369;Rqxz369;https://images.pling.com/img/00/00/61/26/90/1578158/70ed879416553385f24abba017cc82c9fed2b7fa1a712cc5d9527b765820556eff11.jpg"
         },
         "MODE": {
             "description": "Private or public",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"919074309534,"94702523487"
         },
         "ALIVE": {
-            "description": "Alive message {image/link}, {sender} can also be used",
-            "required": false,
+            "description": "Alive message {https://images.pling.com/img/00/00/61/26/90/1578158/70ed879416553385f24abba017cc82c9fed2b7fa1a712cc5d9527b765820556eff11.jpg}, {sender} can also be used",
+            "required": ture,
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
