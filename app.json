@@ -66,11 +66,11 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534,"94702523487"
+            "value":"919074309534,94702523487"
         },
         "ALIVE": {
             "description": "Alive message {https://images.pling.com/img/00/00/61/26/90/1578158/70ed879416553385f24abba017cc82c9fed2b7fa1a712cc5d9527b765820556eff11.jpg}, {sender} can also be used",
-            "required": ture,
+            "required": false,
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
